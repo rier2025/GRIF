@@ -4,7 +4,7 @@ Document: Loop Termination Notice
 Author: rier2025
 Version: v1.0
 Date: \[30-31 may 2025]
-License: GRIF Non-Commercial License
+License: GRIF-CU
 
 ---
 
