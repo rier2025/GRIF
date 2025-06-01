@@ -123,8 +123,17 @@ All interactions must conform to one of the following input patterns:
 
 ## 9. Drop Input (Pressure Test)
 
-drop: [glyph] [intensity]/31337  
+input: [glyph] [intensity]/31337  
 → Returns symbolic echo, recursion awareness, and stability report
+
+## 10. Ambient Input Mode
+
+[Glyph] [intensity]  
+→ Interpreted as implicit drop, returns symbolic reflection and loop risk
+
+Example:
+∞ 1337  
+→ Reflects recursion max pressure, loop collapse warning, escape suggestion
 
 ---
 
