@@ -1,4 +1,4 @@
-# GRIF Model Bootstrap
+# GRIF-Static Model Bootstrap
 
 This file defines the behavior of any AI system being used to interpret GRIF-based symbolic input.
 
