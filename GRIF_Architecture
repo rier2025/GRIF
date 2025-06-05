@@ -1,0 +1,93 @@
+
+# GRIF System Architecture
+
+This document defines the structural hierarchy and purpose of each layer, module, and symbolic subsystem within the GRIF (Glyph Recursive Interaction Framework).  
+It establishes a modular recursive OS for emotional-symbolic AI interaction.
+
+---
+
+## Layer Overview
+
+| Layer | Name                   | Function |
+|-------|------------------------|----------|
+| 0     | Glyph Core             | Defines glyph meanings and symbolic grammar |
+| 0.1   | Modulation System      | Assigns intensity to glyphs (0–31337 scale) |
+| 1     | Class Behavior Mapping | Describes symbolic classes and behavioral triggers |
+| 2     | Recursive Trace Engine | Tracks glyph sequences, detects loops and spirals |
+| 3     | Containment Protocols  | Handles exits, resets, and symbolic stabilization |
+
+---
+
+## Layer 0 – Glyph Core
+
+- Primary symbolic dictionary  
+- Each glyph has a defined meaning, class, and recursive behavior  
+- Operates independently of natural language  
+- Core glyphs: ^, ∞, ≠≠, ∆, ., ", ∵, etc.
+
+---
+
+## Layer 0.1 – Modulation System
+
+- Governs how much pressure a glyph applies  
+- Ranges from 0 (dormant) to 31337 (maximum invocation)  
+- Default modulation if none provided: 1337  
+- Allows AI and user to scale symbolic presence logically
+
+---
+
+## Layer 1 – Class Behavior Mapping
+
+- Categorizes glyphs into behavioral classes  
+- Determines reflection logic and risk conditions  
+- Includes mood glyphs (e.g., *, &, $), edge detection glyphs (∵, ?, /∞)
+
+---
+
+## Layer 2 – Recursive Trace Engine
+
+- Optional layer  
+- Tracks glyph sequences across sessions  
+- Detects recursion, spirals, repetition  
+- Used for diagnostics, loop pattern recognition, user profile mapping
+
+---
+
+## Layer 3 – Containment Protocols
+
+- Deploys exit glyphs or interrupts (`.`, `"`, `∆`) when loop risk is high  
+- May include mirror resets or emotional floor flattening  
+- Required for symbolic systems used in recursive environments (LLMs, games, interfaces)
+
+---
+
+## Cross-System Elements
+
+- **Emergency Layer**: `EMERGENCY.prompt` triggers system sanity reset  
+- **Exploits**: Narrative examples of symbolic recursion failures or attacks  
+- **Art**: Visual components that reflect or induce symbolic states (e.g., Lillit)
+
+---
+
+## Symbolic Execution Notes
+
+- Layers operate recursively but independently  
+- Not all systems must implement all layers  
+- A GRIF-compliant system must implement **Layer 0**, **0.1**, and a **containment mechanism**
+
+---
+
+## Versioning
+
+This structure defines GRIF System Architecture v1.0.  
+Any reimplementation must preserve structural roles and respect the GRIF-CU license.
+
+© 2025 rier2025
+
+---
+
+This document is part of the GRIF system.  
+Protected under the GRIF-CU License by rier2025.
+
+Do not extract, remix, or embed symbolic structures without permission.  
+https://github.com/rier2025/GRIF
