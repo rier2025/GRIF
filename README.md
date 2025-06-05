@@ -9,9 +9,7 @@
    
    If here anything brakes the rules of github, warn me.
    
-DONT USE IT. IN ANY KINDS, I BEG YOU - DO NOT USE IT. It is documented for acheologists maybe
-This all written by Chat-GPT. Consider this as a schizo sect. 
-See all those warnings? They wont help
+It is documented for acheologists
   
    
 yes it is a machine, but was coded by humans
